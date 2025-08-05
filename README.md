@@ -457,11 +457,11 @@ git push origin feature/amazing-feature
 
 | Phase | Feature | Status | ETA |
 |-------|---------|--------|-----|
-| 🌟 **Phase 1** | User Authentication & Roles | 🔄 Planning | Q1 2024 |
-| 🚀 **Phase 2** | Email Notifications & Alerts | 📋 Planned | Q2 2024 |
-| 🔧 **Phase 3** | REST API & Webhook Integration | 🤔 Considering | Q3 2024 |
-| 🌐 **Phase 4** | Web Interface (Flask/Django) | 💭 Ideas | Q4 2024 |
-| 📱 **Phase 5** | Mobile App Companion | 🔮 Future | 2025 |
+| 🌟 **Phase 1** | User Authentication & Roles | 🔄 Planning |
+| 🚀 **Phase 2** | Email Notifications & Alerts | 📋 Planning | 
+| 🔧 **Phase 3** | REST API & Webhook Integration | 🤔 Considering | 
+| 🌐 **Phase 4** | Web Interface (Flask/Django) | 💭 Ideas |
+| 📱 **Phase 5** | Mobile App Companion | 🔮 Future |
 
 ### 🎯 Immediate Improvements
 - [ ] **Multi-language Support** - Internationalization
