@@ -583,7 +583,7 @@ If this project helped you, please consider:
 
 <div align="center">
 <sub>
-📅 Last Updated: August 2024 | 
+📅 Last Updated: August 2025 | 
 🔄 Version: 1.0.0 | 
 📊 Status: Active Development |
 🌟 <a href="#top">Back to Top</a>
