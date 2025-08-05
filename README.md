@@ -91,7 +91,7 @@ numpy        # Data processing
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/soc-incident-ticketing.git
+git clone https://github.com/Naveen-21-Cyber/-SOC-Incident-Ticketing-System.git
 cd soc-incident-ticketing
 
 # 2️⃣ Install dependencies
@@ -427,7 +427,7 @@ We love contributions! Here's how you can help:
 
 ```bash
 # 1️⃣ Fork the repository
-git fork https://github.com/yourusername/soc-incident-ticketing
+git fork https://github.com/Naveen-21-Cyber/-SOC-Incident-Ticketing-System
 
 # 2️⃣ Create feature branch  
 git checkout -b feature/amazing-feature
@@ -455,13 +455,13 @@ git push origin feature/amazing-feature
 
 </div>
 
-| Phase | Feature | Status | ETA |
-|-------|---------|--------|-----|
-| 🌟 **Phase 1** | User Authentication & Roles | 🔄 Planning | Q1 2024 |
-| 🚀 **Phase 2** | Email Notifications & Alerts | 📋 Planned | Q2 2024 |
-| 🔧 **Phase 3** | REST API & Webhook Integration | 🤔 Considering | Q3 2024 |
-| 🌐 **Phase 4** | Web Interface (Flask/Django) | 💭 Ideas | Q4 2024 |
-| 📱 **Phase 5** | Mobile App Companion | 🔮 Future | 2025 |
+| Phase | Feature | Status | 
+|-------|---------|--------|
+| 🌟 **Phase 1** | User Authentication & Roles | 🔄 Planning |
+| 🚀 **Phase 2** | Email Notifications & Alerts | 📋 Planned | 
+| 🔧 **Phase 3** | REST API & Webhook Integration | 🤔 Considering |
+| 🌐 **Phase 4** | Web Interface (Flask/Django) | 💭 Ideas |
+| 📱 **Phase 5** | Mobile App Companion | 🔮 Future | 
 
 ### 🎯 Immediate Improvements
 - [ ] **Multi-language Support** - Internationalization
