@@ -91,7 +91,7 @@ numpy        # Data processing
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/soc-incident-ticketing.git
+git clone https://github.com/Naveen-21-Cyber/-SOC-Incident-Ticketing-System.git
 cd soc-incident-ticketing
 
 # 2️⃣ Install dependencies
